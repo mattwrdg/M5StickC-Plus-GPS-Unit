@@ -5,7 +5,7 @@ Simple Example how to connect a GPS Unit to a M5StickC Plus
 
 Simple Example how to make use of the TinyGPS++ Library and get a proper connection of the new M5StickC Plus Device with the GPS Unit: AT6558
 
-#Code example
+## Code example
 
 * Create a HardwareSerial
 ```c++
